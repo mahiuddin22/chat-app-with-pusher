@@ -1,1 +1,1 @@
-# chat-app-with-pusher
+# Chat Application Using Pusher JS
